@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+.card {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+.card h2 {
+    color: blue;
+}
+
+.card p {
+    color: gray;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
